@@ -15,3 +15,5 @@
 Проверяем подключение 
 
 ![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_6.png)
+
+# Проводим базовую настройку коммутатора S1 согласно таблицы
