@@ -20,3 +20,5 @@
 
 ![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_7.png)
 ![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_8.png)
+
+# Настройка коммутатора S1 для доступа по протоколу SSH
