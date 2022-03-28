@@ -11,3 +11,6 @@
 
 ![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_4.png)
 ![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_5.png)
+
+Проверяем подключение 
+
