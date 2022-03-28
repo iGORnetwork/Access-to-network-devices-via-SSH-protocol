@@ -8,3 +8,6 @@
 ![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_3.png)
 
 Настройка маршрутизатора R1 для доступа по протоколу SSH
+
+![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_4.png)
+![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_5.png)
