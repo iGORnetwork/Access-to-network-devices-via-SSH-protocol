@@ -14,3 +14,4 @@
 
 Проверяем подключение 
 
+![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_6.png)
