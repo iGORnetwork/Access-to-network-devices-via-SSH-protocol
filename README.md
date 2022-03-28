@@ -28,3 +28,7 @@
 Проверяем подключение 
 
 ![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_10.png)
+
+Проверяем подключение по SSh S1 - R1 
+
+![](https://github.com/iGORnetwork/Access-to-network-devices-via-SSH-protocol/blob/main/image/Screenshot_11.png)
